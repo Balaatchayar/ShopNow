@@ -1,2 +1,2 @@
 # ShopNow
- An online store built with React for a smooth shopping experience.
+ An online store for a smooth shopping experience.
